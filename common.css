@@ -166,7 +166,7 @@ background: white; }
 
    /* M_LNB */
 
-   #m_lnb { background: white; width: 100%; padding: 0 48px; min-height: 100vh; position: fixed;
+   #m_lnb { background: white; width: 100%; padding: 0 48px; min-height: 100vh; position: relative;
    top: 68px; left:100vw; transition: left 0.4s; overflow: scroll;}
 
    /* #m_lnb_close_button {position: absolute; top:22px; right:24px;
